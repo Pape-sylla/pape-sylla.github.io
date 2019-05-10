@@ -1,0 +1,91 @@
+
+body{margin: 0;background-color: #06505f}
+header{ background-color: #06505f }
+main{background-color: rgb(73, 73, 73);
+    
+
+}
+nav ul li  {
+    display: inline-block
+}
+
+nav{
+    text-align: center;
+    /* background-color: #ffffff; */
+    border-bottom: 10px solid#ffffff;
+    border: inset;
+    border-radius: 10px;
+    border: inset;
+    width: 90%;
+    margin: auto;
+}
+
+
+nav ul a {
+    padding: 20px;
+    display: inline-block;
+    text-decoration:none;
+    color:white ;
+    text-transform: uppercase;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: bold;
+    
+}
+
+.centrer{
+    text-align: center;color: #ffffff;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.centrer2{
+    font-family: sans-serif;
+    text-align: center
+}
+
+.coordonées  {
+    color: #ffffff;
+    font-family: sans-serif;
+    margin-left: 5px;
+   
+}
+
+.accueil {
+    font-family: sans-serif;
+    color: #ffffff;
+    margin-left: 5px;
+}
+
+.img{
+    background-color: #06505f;
+  
+}
+
+.compétence{
+    font-family:sans-serif;
+    color: #ffffff;
+    margin-left: 5px;
+  
+}
+
+h2,h3{
+    font-family: 'Kaushan Script', cursive;
+    color: #ffffff;
+    margin-left: 5px;
+
+}
+
+.date1,.date2,.date3,.date4{
+    font-family: 'Kaushan Script', cursive;
+    color: #ffffff;
+    margin-left: 5px;
+
+}
+
+.aa1,.aa2,.aa3,.aa4,.aa5{
+    font-family: 'Kaushan Script', cursive;
+    color: #ffffff;
+    margin-left: 5px;
+    
+    
+    
+}
